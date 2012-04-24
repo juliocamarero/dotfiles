@@ -2,3 +2,5 @@
 *_private
 gitconfig_user
 .DS_Store
+
+*.sublime-*
