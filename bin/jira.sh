@@ -1,0 +1,1 @@
+/Users/juliocamarero/proyectos/atlassian-cli-2.6.0/jira.sh
